@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "msv_2224802010188_nguyenquanghung_lab1_1" "\0"
+            VALUE "FileDescription", "msv_2224802010668_hahuuquoc_lab1_1" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "msv_2224802010188_nguyenquanghung_lab1_1" "\0"
+            VALUE "InternalName", "msv_2224802010668_hahuuquoc_lab1_1" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "msv_2224802010188_nguyenquanghung_lab1_1.exe" "\0"
-            VALUE "ProductName", "msv_2224802010188_nguyenquanghung_lab1_1" "\0"
+            VALUE "OriginalFilename", "msv_2224802010668_hahuuquoc_lab1_1.exe" "\0"
+            VALUE "ProductName", "msv_2224802010668_hahuuquoc_lab1_1" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

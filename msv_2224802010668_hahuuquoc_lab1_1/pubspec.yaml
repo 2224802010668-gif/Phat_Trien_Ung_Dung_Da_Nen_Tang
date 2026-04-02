@@ -1,4 +1,4 @@
-name: msv_2224802010188_nguyenquanghung_lab1_3
+name: msv_2224802010668_hahuuquoc_lab1_1
 description: A new Flutter project.
 publish_to: 'none'
 version: 1.0.0+1
@@ -7,7 +7,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
 flutter:
   uses-material-design: true
-  assets:
-    - assets/images/flutter_logo.png
